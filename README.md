@@ -1,6 +1,6 @@
 # Sort-Visualizer.github.io
 # Sorting Visualizer
-
+![Project Image](https://github.com/divyam2003/Sort-Visualizer.github.io/blob/main/image/gif.gif)
 > [Live demo](https://divyam2003.github.io/Sort-Visualizer.github.io/#)
 
 ---
